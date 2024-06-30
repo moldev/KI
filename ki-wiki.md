@@ -1,4 +1,5 @@
-# Professionelles KI-Wiki mit klarer Struktur
+## Einleitung
+Dieses KI-Wiki bietet einen umfassenden Überblick über zentrale Konzepte und Technologien im Bereich der Künstlichen Intelligenz (KI) und dient als Nachschlagewerk. Die Begriffe sind in thematische Kategorien gegliedert und alphabetisch sortiert, um eine effiziente Navigation zu ermöglichen.
 
 ## I. Grundlagen der KI
 
